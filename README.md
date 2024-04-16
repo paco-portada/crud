@@ -8,13 +8,11 @@
 
 # Instalación
 - descargar el archivo zip de Github:
-    https://github.com/FaztWeb/php-mysql-crud
+    https://github.com/paco-portada/crud
 
 - descomprimir el archivo zip en la carpeta de documentos del servidor web:
     /var/www/html (en Linux)
     htdocs (en XAMPP)
-
-- renombrar la carpeta php-mysql-crud a crud
 
 - crear la base de datos con el script database/script.sql
 
